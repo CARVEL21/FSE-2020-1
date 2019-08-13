@@ -1,0 +1,20 @@
+Nombre:
+	Carvente Velasco Carlos Albeto
+	Hernandez Romero Pompeyo
+
+Respuestas a las preguntas de la práctica:
+¿cual es la razon principal de utilizar linux para el diseño de sistemas embebidos?
+
+-Las distintas distribuciones de Linux que existen nos dan una amplia gama de herramientas
+para el desarrollo de estos sistemas,ademas de ser muy accesible con el manejo de proyectos
+y ambientes de desarrollo que en otros sistemas operativos seria muy complicado su instalacion 
+y ejecucion.
+
+Investigue metodos y formas de conectarse a un Raspberry Pi:
+
+-Ip Adrress
+-Acceso a traves de internet
+-VNC
+-Security Shell
+-Security Shell File System
+-FTP o SFTP
