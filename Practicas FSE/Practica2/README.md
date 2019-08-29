@@ -33,6 +33,8 @@ Se abre el canal de salida estándar, después se recorrerá una cadena de carac
 
 (a).Cuál es la diferencia entre las instrucciones swi 0x0,svc #0y, bx lr?
 R: 
+
+
 -swi: son interrupciones al sistema
 -svc: supervisor del proceso de excepción de una llamada
 -bx lr: returna a la función main
@@ -46,39 +48,39 @@ intrucción GNU de ".align 4" alinea los límites de los registros a 4.
 
 34 intrucciones:
 
-ADC				Add with carry
+ADC			Add with carry
 ADD 			Add
 AND 			AND
-B 				Branch
-BIC				Bit Clear
-BL 				Branch with link
-BX 				Branch and Exchange
-CDP				Coprocessor Data Processing
-CMN				Compare Negative
+B 			Branch
+BIC			Bit Clear
+BL 			Branch with link
+BX 			Branch and Exchange
+CDP			Coprocessor Data Processing
+CMN			Compare Negative
 CMP 			Compare
 EOR 			Exclusive OR
-LDC				Load Coprecessor from memory
+LDC			Load Coprecessor from memory
 LDM 			Load multiple registers
 LDR 			Load register from memory
-MCR				Move CPU register to coprocessor register
-MLA				Multiply Accumulate
+MCR			Move CPU register to coprocessor register
+MLA			Multiply Accumulate
 MOV 			Move register or constant
 MRC 			Move from coprocessor register from CPU register
 MRS 			Move PSR status/flags to register
 MSR 			Move Rregister to PSR status/flag
 MUL 			Multiply
-MVN				Move negative register
-ORR				or
+MVN			Move negative register
+ORR			or
 RSB 			Reverse Substract
-RSC				Reverse Substract with Carry
-SBC				Substract with carry
-STC				Store coprocessor register to memory
-STM				Store Multiple
+RSC			Reverse Substract with Carry
+SBC			Substract with carry
+STC			Store coprocessor register to memory
+STM			Store Multiple
 STR 			Store register to memory
 SUB 			Subtract
 SWI 			Software Interrupt
-SWP				Swap register with memory
-TEQ				Test bitwise equality
+SWP			Swap register with memory
+TEQ			Test bitwise equality
 TST 			Test bits
 
 
