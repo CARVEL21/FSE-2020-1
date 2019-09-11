@@ -10,6 +10,8 @@ Objetivo El alumno conocerá la configuración y la programación de las termina
 
 
 Respuestas breves y concisas. Ponga las respuestas en el archivo README usando un editor de texto. 
+
+
 a) ¿Cuántas formas de configurar y programar hay disponibles en la raspberry pi?
 Se puede configurar la raberry pi  sistema operativo por el mismo software de NOOBS. En raspberry pi se puede programar en C, python, Java, Ruby, ademas a eso añadirle que existen repositorios que añaden soporte para agregar casi cualquier lenguaje de programación que existe.
 
