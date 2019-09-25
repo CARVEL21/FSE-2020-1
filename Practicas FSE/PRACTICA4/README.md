@@ -27,3 +27,5 @@ Descripción: consta de dos actividades
 	Iniciales: xxxx 
 	Bandera: x
 	Voltaje: xxx
+	
+	video tutorial https://www.youtube.com/watch?v=eCNbklyQ0XQ&feature=youtu.be
