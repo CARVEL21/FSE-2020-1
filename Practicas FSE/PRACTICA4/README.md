@@ -7,6 +7,8 @@ Raspberry Pi: Puerto serie y módulo UART
 Objetivo: El alumno conocerá la configuración, la programación y el uso del módulo UART (Universal Asynchronous Receiver Transmitter) para implementar comunicaciones de tipo serial, particularmente bajo el estándar RS-232.
 
 Descripción: consta de dos actividades
+
+
 -Primera Actividad
 	Desarrolle un programa en C o Python que escriba de la Raspberry a la PC, la siguiente cadena, i = 0, . . . , 15 veces
 	0: FSE 2020-1 Comunicacion UART RPi - FSE
